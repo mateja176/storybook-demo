@@ -1,6 +1,5 @@
 import Page from '@/app/page';
 import type { Meta, StoryObj } from '@storybook/react';
-import './globals.css';
 
 export default {
   title: 'Page',
